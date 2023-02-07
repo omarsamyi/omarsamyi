@@ -24,7 +24,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=omarsamyi&icon=8&color=12)](https://visitcount.itsvg.in)
 
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
