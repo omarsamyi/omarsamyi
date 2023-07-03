@@ -1,5 +1,5 @@
 # 💫 About Me:
-?? I’m currently working on automation tools and technologies to optimize software development and deployment<br>?? I’m currently learning AI machine learning, DevOps tools<br>?? Ask me about DevOps and AI<br>
+🔭 I’m currently working on automation tools and technologies to optimize software development and deployment<br>🌱 I’m currently learning AI machine learning, DevOps tools<br>💬 Ask me about DevOps and AI<br>
 
 
 ## 🌐 Socials:
